@@ -2,7 +2,7 @@
 Tutorial markdown bahasa Indoensia. Versi resmi how-to markdown (berbahasa inggris) dapat dibaca [disini](http://daringfireball.net/projects/markdown/ "Daringfireball Markdown") atau [disini](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "Cheatsheet").
 
 ## Environment
-Penulis menggunakan sistem operasi windows 8.1. Sistem operasi lain bisa menyesuaikan dengan penjelasan dibawah.
+Penulis menggunakan sistem operasi windows 11. Sistem operasi lain bisa menyesuaikan dengan penjelasan dibawah.
 
 ## Bagian Membosankan: Teori
 ### Apa itu markdown?
